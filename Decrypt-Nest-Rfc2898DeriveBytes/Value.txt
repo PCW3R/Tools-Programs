@@ -1,0 +1,19 @@
+C.Smith:
+cipherText = fTEzAfYDoz1YzkqhQkH6GQFYKp1XY5hm7bjOP86yYxE=
+passPhrase = N3st22
+saltValue = 88552299
+passwordIterations = 2
+initVector = 464R5DFA5DL6LE28
+keySize = 256
+
+--> RESULT: xRxRxPANCAK3SxRxRx
+
+Administrator:
+cipherText = yyEq0Uvvhq2uQOcWG8peLoeRQehqip/fKdeG/kjEVb4=
+passPhrase = 667912
+saltValue = 1313Rf99
+passwordIterations = 3
+initVector = 1L1SA61493DRV53Z
+keySize = 256
+
+--> RESULT: XtH4nkS4Pl4y1nGX
